@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PARTS OF A PLANT</string>
+    <string name="todo">TODO</string>
+    <string name="F">F</string>
+    <string name="R">R</string>
+    <string name="L">L</string>
+    <string name="T">T</string>
+    <string name="W">W</string>
+    <string name="E">E</string>
+    <string name="S">S</string>
+    <string name="O">O</string>
+    <string name="M">M</string>
+    <string name="U">U</string>
+    <string name="I">I</string>
+    <string name="K">K</string>
+    <string name="Q">Q</string>
+    <string name="Z">Z</string>
+    <string name="A">A</string>
+    <string name="tree">Tree</string>
+    <string name="Play">Play</string>
+    <string name="Flower">_ _ _ _ _ _ </string>
+    <string name="Blank">_ _ _ _ _ _ </string>
+    <string name="Next">Next </string>
+</resources>
